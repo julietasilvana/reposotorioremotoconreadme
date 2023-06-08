@@ -1,2 +1,3 @@
 # reposotorioremotoconreadme
-primer reposotorio con readmi
+primer redmi
+
